@@ -30,7 +30,11 @@ public class Prjava02 {
         }
         catch (IOException e) {
 		System.out.println("Exception occurred");
-        }  
+
         System.out.println("Afegint més codi a la branca00 del projecte prjava02");
+
+        }
+        System.out.println("Creació d'una branca del projecte prjava02");
+
     }
 }
